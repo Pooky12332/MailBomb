@@ -1,0 +1,15 @@
+my_example_email@gmail.com
+my_example_password123
+friends_example_email
+Hello!
+Hello Friend! This is a test email, I hope you are doing well :)
+1
+5
+
+// The program reads the first 7 lines of the text file given
+// These 7 lines correspond to the first 7 options
+// The last option to "write all settings to a file" is turned off as this is all in a file
+// Enter them like you normally would and then save the file in the same dir
+// Then when asked what file you would like to use, enter the name of the file
+// Inclue the type of file it is, as long as the script can read the first 7 lines then it doesnt matter
+// e.g.: myfriend.txt
